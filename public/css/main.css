@@ -1,0 +1,14 @@
+*{
+  font-family: roboto;
+}
+.card-geral {
+  margin: 50px 60px;
+}
+
+.form-group input {
+  margin-top: 8px;
+}
+
+.form-group {
+  padding: 2px;
+}
